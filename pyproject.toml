@@ -1,0 +1,16 @@
+[project]
+name = "wc-football-companion"
+version = "1.0.0"
+description = "World Cup 2026 Football Companion - Player insights and predictions"
+requires-python = ">=3.9"
+dependencies = [
+    "streamlit>=1.28.0",
+    "pandas>=2.0.0",
+    "plotly>=5.14.0",
+    "requests>=2.31.0",
+    "pillow>=10.0.0",
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

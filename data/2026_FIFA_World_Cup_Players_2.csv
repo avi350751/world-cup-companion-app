@@ -1,0 +1,96 @@
+Player_Name,Country,Club,Position,Age,WC_Appearances,WC_Goals,WC_Assists,IsMVP,Height_cm,Weight_kg,Weight_lbs,Jersey_Number
+Christian Pulisic,USA,AC Milan,F,27,2,2,0,No,183,74,163,10
+Weston McKennie,USA,Juventus,M,27,2,0,0,No,183,77,170,5
+Tyler Adams,USA,AFC Bournemouth,M,27,2,0,0,No,180,79,174,6
+Folarin Balogun,USA,AS Monaco,F,28,0,0,0,No,182,78,172,9
+Tim Weah,USA,Marseille,F,25,1,0,0,No,183,79,174,21
+Antonee Robinson,USA,Fulham,D,25,2,0,0,No,183,72,159,12
+Joe Scally,USA,Borussia Mönchengladbach,D,27,2,0,0,No,183,77,170,7
+Gio Reyna,USA,Borussia Mönchengladbach,M/F,30,2,1,0,No,187,79,174,14
+Sergiño Dest,USA,PSV Eindhoven,D/M,23,2,0,0,No,173,68,150,2
+Brenden Aaronson,USA,Leeds United,M,23,2,0,0,No,178,73,161,13
+Ricardo Pepi,USA,PSV Eindhoven,F,21,0,0,0,No,185,74,163,25
+Malik Tillman,USA,Bayer Leverkusen,M,24,0,0,0,No,180,76,168,23
+Haji Wright,USA,Coventry City,F,27,2,0,0,No,186,82,181,24
+Alejandro Zendejas,USA,Club América,M/F,23,0,0,0,No,175,73,161,19
+Tim Ream,USA,Charlotte FC,D,38,3,0,0,No,188,79,174,15
+Miles Robinson,USA,FC Cincinnati,D,28,2,0,0,No,187,82,181,4
+Chris Richards,USA,Crystal Palace,D,25,0,0,0,No,188,83,183,3
+Mark McKenzie,USA,Toulouse,D,26,0,0,0,No,188,83,183,16
+Auston Trusty,USA,Celtic,D,26,0,0,0,No,190,77,170,20
+Alex Freeman,USA,Villarreal,D,27,0,0,0,No,183,82,181,11
+Max Arfsten,USA,Columbus Crew,D,26,0,0,0,No,182,81,179,22
+Sebastian Berhalter,USA,Vancouver Whitecaps,M,25,0,0,0,No,185,73,161,17
+Cristian Roldan,USA,Seattle Sounders,M,30,1,0,0,No,175,73,161,8
+Matt Turner,USA,New England Revolution,GK,28,2,0,0,No,191,78,172,1
+Matt Freese,USA,New York City FC,GK,25,0,0,0,No,188,79,174,26
+Chris Brady,USA,Chicago Fire,GK,27,0,0,0,No,191,78,172,18
+Lamine Yamal,Spain,Barcelona,F/M,17,0,0,0,Yes,177,72,159,11
+Rodri,Spain,Manchester City,M,28,2,0,0,No,191,82,181,3
+Pedri,Spain,Barcelona,M,21,2,0,0,No,174,66,145,8
+Gavi,Spain,Barcelona,M,20,2,0,0,No,173,70,154,19
+Nico Williams,Spain,Athletic Club,F/M,22,0,0,0,No,180,76,168,17
+Ferran Torres,Spain,Barcelona,F/M,26,2,1,0,No,182,76,168,14
+Dani Olmo,Spain,Barcelona,M/F,26,2,0,0,No,182,74,163,5
+Marc Cucurella,Spain,Chelsea,D,25,0,0,0,No,181,78,172,3
+Aymeric Laporte,Spain,Athletic Club,D,30,0,0,0,No,189,83,183,4
+Pau Cubarsi,Spain,Barcelona,D,21,0,0,0,No,186,82,181,2
+Florian Wirtz,Germany,Liverpool,M/F,21,0,0,0,No,180,73,161,7
+Jamal Musiala,Germany,Bayern Munich,M/F,21,0,0,0,No,183,74,163,14
+Kai Havertz,Germany,Arsenal,F,25,2,1,0,No,189,84,185,19
+Joshua Kimmich,Germany,Bayern Munich,M,29,2,0,0,No,176,73,161,6
+Antonio Rudiger,Germany,Real Madrid,D,31,0,0,0,No,190,88,194,2
+Jonathan Tah,Germany,Bayern Munich,D,28,0,0,0,No,193,86,190,4
+Manuel Neuer,Germany,Bayern Munich,GK,38,4,0,0,Yes,193,87,192,1
+Lionel Messi,Argentina,Inter Miami,F,39,5,7,3,Yes,170,72,159,10
+Julian Alvarez,Argentina,Atletico Madrid,F,25,2,6,0,No,174,70,154,9
+Lautaro Martinez,Argentina,Inter Milan,F,28,2,0,0,No,180,77,170,22
+Nicolas Gonzalez,Argentina,Atletico Madrid,F,26,0,0,0,No,182,78,172,20
+Enzo Fernandez,Argentina,Chelsea,M,23,2,0,0,No,178,68,150,24
+Rodrigo De Paul,Argentina,Inter Miami,M,30,2,0,1,No,180,75,165,5
+Alexis Mac Allister,Argentina,Liverpool,M,25,2,0,0,No,176,68,150,2
+Cristian Romero,Argentina,Tottenham,D,26,2,0,0,No,188,81,179,13
+Lisandro Martinez,Argentina,Manchester United,D,25,0,0,0,No,179,75,165,3
+Nicolas Tagliafico,Argentina,Lyon,D,31,2,0,0,No,175,71,156,19
+Kylian Mbappe,France,Real Madrid,F,27,3,12,3,Yes,178,73,161,10
+Ousmane Dembele,France,Paris Saint-Germain,F/M,27,2,1,1,Yes,178,70,154,11
+Marcus Thuram,France,Inter Milan,F,27,0,0,0,No,192,84,185,22
+Jules Koundé,France,Barcelona,D,25,0,0,0,No,180,77,170,4
+William Saliba,France,Arsenal,D,24,0,0,0,No,189,79,174,2
+N'Golo Kante,France,Fenerbahçe,M,35,3,0,0,No,172,68,150,13
+Aurelien Tchouameni,France,Real Madrid,M,24,0,0,0,No,185,78,172,5
+Mike Maignan,France,AC Milan,GK,30,0,0,0,No,188,81,179,1
+Vinicius Jr,Brazil,Real Madrid,F,25,0,0,0,No,176,73,161,7
+Neymar,Brazil,Santos,F,32,4,2,2,No,175,68,150,10
+Raphinha,Brazil,Barcelona,F,27,2,1,2,No,184,76,168,23
+Matheus Cunha,Brazil,Manchester United,F,25,0,0,0,No,182,78,172,20
+Endrick,Brazil,Real Madrid,F,18,0,0,0,No,176,71,156,9
+Casemiro,Brazil,Manchester United,M,32,2,0,0,No,184,82,181,5
+Bruno Guimaraes,Brazil,Newcastle,M,27,0,0,0,No,179,73,161,17
+Marquinhos,Brazil,PSG,D,30,2,0,0,No,183,78,172,3
+Gabriel,Brazil,Arsenal,D,26,0,0,0,No,188,82,181,13
+Alisson,Brazil,Liverpool,GK,32,2,0,0,No,188,82,181,1
+Harry Kane,England,Bayern Munich,F,32,3,3,0,Yes,188,82,181,9
+Harry Maguire,England,Manchester United,D,31,2,0,0,No,194,100,220,6
+Jude Bellingham,England,Real Madrid,M,21,0,0,0,No,186,86,190,19
+Phil Foden,England,Manchester City,M/F,26,2,0,0,No,182,73,161,20
+Bukayo Saka,England,Arsenal,M/F,23,1,0,0,No,178,72,159,17
+Declan Rice,England,Arsenal,M,25,2,0,0,Yes,193,87,192,4
+John Stones,England,Manchester City,D,30,2,0,0,No,188,81,179,5
+Jordan Pickford,England,Everton,GK,30,2,0,0,No,188,84,185,1
+Virgil van Dijk,Netherlands,Liverpool,D,32,2,0,0,No,194,92,203,4
+Memphis Depay,Netherlands,Corinthians,F,30,3,0,0,No,178,76,168,10
+Cody Gakpo,Netherlands,Liverpool,F,25,1,1,0,No,183,76,168,7
+Frenkie de Jong,Netherlands,Barcelona,M,27,2,0,0,No,180,73,161,21
+Steve Bergwijn,Netherlands,AZ Alkmaar,F,26,0,0,0,No,189,82,181,9
+Cristiano Ronaldo,Portugal,Al Nassr,F,39,5,8,0,Yes,187,84,185,7
+Bruno Fernandes,Portugal,Manchester United,M,29,1,0,3,Yes,179,74,163,8
+Bernardo Silva,Portugal,Manchester City,M,29,2,0,0,No,173,72,159,10
+Joao Felix,Portugal,Al Nassr,F,26,0,0,0,No,179,72,159,17
+Rafael Leao,Portugal,AC Milan,F,25,0,0,0,No,188,80,176,5
+Ruben Dias,Portugal,Manchester City,D,27,1,0,0,No,189,82,181,3
+Joao Cancelo,Portugal,Barcelona,D,30,2,0,0,No,182,73,161,2
+Erling Haaland,Norway,Manchester City,F,26,0,0,0,No,194,88,194,9
+Alexander Sorloth,Norway,Atletico Madrid,F,29,0,0,0,No,195,94,207,19
+Martin Odegaard,Norway,Arsenal,M,25,0,0,0,No,178,72,159,8
+Sander Berge,Norway,Fulham,M,27,0,0,0,No,188,84,185,13
